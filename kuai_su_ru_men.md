@@ -5,9 +5,9 @@ APIlink的ISV要发布API类型的商品需要经过以下几个步骤
 第二步：开通APIlink开发者认证。  
 第三步：发布API ：API列表-〉发布服务-〉定义服务基本信息-〉定义API信息。
 
-![](images/API-1.png)
-![](images/API-2.png)
+![](images/images/API-1.png)
+![](images/images/API-2.png)
 
 第四步  审批通过后,可以把API上架到云市场，设置计费信息，就可以在用友云市场买卖交易（用友股份自营商品由统一运维人员上架）。
 
-![](images/API-3.png)
+![](images/images/API-3.png)
